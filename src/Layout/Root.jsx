@@ -1,10 +1,9 @@
-import React from "react";
-import Nav from "../pages/Shared/Nav";
 import { Outlet } from "react-router-dom";
+import Nav from "../pages/Shared/Navbar/Nav";
 
 function Root() {
   return (
-    <div>
+    <div className="container mx-auto px-24">
       <Nav />
       <Outlet />
     </div>
