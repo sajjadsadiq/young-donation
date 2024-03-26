@@ -1,0 +1,90 @@
+[
+  {
+    "ID": "1",
+    "title": "Clean Water Initiative",
+    "textColor": "#ffffff",
+    "description": "Help us provide clean and safe drinking water to communities in need around the world.",
+    "price": 50,
+    "image": "https://example.com/clean_water.jpg",
+    "category": "Water & Sanitation",
+    "categoryBgColor": "#00ccff",
+    "cardBgColor": "#66cc99"
+  },
+  {
+    "ID": "2",
+    "title": "Support Refugee Families",
+    "textColor": "#000000",
+    "description": "Your donation will provide essential supplies and support to refugee families displaced by conflict.",
+    "price": 75,
+    "image": "https://example.com/refugee_support.jpg",
+    "category": "Humanitarian Aid",
+    "categoryBgColor": "#ff6666",
+    "cardBgColor": "#cccccc"
+  },
+  {
+    "ID": "3",
+    "title": "Protect Endangered Wildlife",
+    "textColor": "#ffffff",
+    "description": "Join us in protecting endangered species and their habitats from destruction and exploitation.",
+    "price": 35,
+    "image": "https://example.com/wildlife_conservation.jpg",
+    "category": "Environment",
+    "categoryBgColor": "#339933",
+    "cardBgColor": "#cc9900"
+  },
+  {
+    "ID": "4",
+    "title": "Empower Women Entrepreneurs",
+    "textColor": "#ffffff",
+    "description": "Support women in starting and growing their businesses, creating economic opportunities and empowerment.",
+    "price": 40,
+    "image": "https://example.com/women_entrepreneurs.jpg",
+    "category": "Empowerment",
+    "categoryBgColor": "#ff99cc",
+    "cardBgColor": "#9966cc"
+  },
+  {
+    "ID": "5",
+    "title": "Educate Underprivileged Children",
+    "textColor": "#ffffff",
+    "description": "Help us provide quality education to children from underprivileged backgrounds, giving them a chance for a better future.",
+    "price": 30,
+    "image": "https://example.com/underprivileged_education.jpg",
+    "category": "Education",
+    "categoryBgColor": "#ffff66",
+    "cardBgColor": "#ff6600"
+  },
+  {
+    "ID": "6",
+    "title": "Disaster Relief Fund",
+    "textColor": "#ffffff",
+    "description": "Your donation will provide emergency relief and support to communities affected by natural disasters such as hurricanes, earthquakes, and floods.",
+    "price": 100,
+    "image": "https://example.com/disaster_relief.jpg",
+    "category": "Emergency Response",
+    "categoryBgColor": "#ff3300",
+    "cardBgColor": "#999999"
+  },
+  {
+    "ID": "7",
+    "title": "Promote Mental Health Awareness",
+    "textColor": "#000000",
+    "description": "Support initiatives aimed at raising awareness about mental health issues and providing resources for those in need of support.",
+    "price": 20,
+    "image": "https://example.com/mental_health_awareness.jpg",
+    "category": "Health",
+    "categoryBgColor": "#99ccff",
+    "cardBgColor": "#339966"
+  },
+  {
+    "ID": "8",
+    "title": "Renewable Energy Solutions",
+    "textColor": "#ffffff",
+    "description": "Contribute to the development and adoption of renewable energy technologies, reducing our reliance on fossil fuels and combating climate change.",
+    "price": 50,
+    "image": "https://example.com/renewable_energy.jpg",
+    "category": "Sustainability",
+    "categoryBgColor": "#33cc33",
+    "cardBgColor": "#ffcc00"
+  }
+]

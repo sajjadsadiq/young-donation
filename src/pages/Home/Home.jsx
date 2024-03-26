@@ -1,9 +1,13 @@
-import React from 'react'
+import Banner from "../../components/Banner";
+import CategoryList from "../../components/CategoryList";
 
 function Home() {
   return (
-    <div>Home</div>
-  )
+    <div>
+      <Banner />
+      <CategoryList />
+    </div>
+  );
 }
 
-export default Home
+export default Home;
