@@ -6,7 +6,7 @@ function CategoryList() {
   return (
     <div className="grid grid-cols-3 gap-6">
       {data.map((item) => (
-        <DonationCard key={item.id} item={item} />
+        <DonationCard key={item.ID} item={item} />
       ))}
     </div>
   );

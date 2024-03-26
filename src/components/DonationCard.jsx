@@ -1,9 +1,12 @@
+/* eslint-disable react/prop-types */
 import { Card, CardBody, Typography, Button } from "@material-tailwind/react";
+import { Link } from "react-router-dom";
 
 function DonationCard({ item }) {
-  const { title, category, cardBgColor, categoryBgColor, textColor } = item;
+  const { ID, title, category, cardBgColor, categoryBgColor, textColor } = item;
+
   return (
-    <div>
+    <Link to={`/donation/${ID}`}>
       <Card className="mt-6 ">
         <CardBody
           style={{ backgroundColor: cardBgColor }}
@@ -22,7 +25,7 @@ function DonationCard({ item }) {
           </Typography>
         </CardBody>
       </Card>
-    </div>
+    </Link>
   );
 }
 
